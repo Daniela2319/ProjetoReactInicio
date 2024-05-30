@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #222222;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+section#articles {
+  margin-top: 4rem;
+  max-width: 1240px;
+  padding: 0 2 rem;
+  margin: 4rem auto;
+}
