@@ -18,4 +18,22 @@ section#articles {
   max-width: 1240px;
   padding: 0 2 rem;
   margin: 4rem auto;
+
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+}
+section#articles img {
+  width: 150px;
+  border-radius: 10px;
+}
+
+section#articles title,
+h2,
+h3,
+p {
+  border-radius: 5px;
+  max-width: 960px;
+  padding: 20px 0;
+  flex-wrap: wrap;
 }
