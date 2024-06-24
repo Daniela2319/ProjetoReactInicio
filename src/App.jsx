@@ -10,7 +10,7 @@ import { Counter } from './components/Counter/counter';
 
 //componente em classe é uma classe que herda a classe component do react,
 //e retorna html dentro do metodo render.
-
+//componente funcional é uma função que retorna um html
 class App extends React.Component {
   //Método responsavel por renderizar o conteudo html do nosso componente
   render() {

@@ -6,7 +6,7 @@
   border-radius: 5px;
   background-color: black;
   font-size: 20px;
-  color: #c95c77;
+  color: #cb9bde;
 }
 h1 {
   display: flex;
@@ -19,6 +19,6 @@ h1 {
   border: none;
   padding: 9px;
   border-radius: 5px;
-  background-color: #c95c77;
+  background-color: #e6ccef;
   font-weight: bold;
 }

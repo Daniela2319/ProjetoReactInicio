@@ -30,7 +30,7 @@ export class Counter extends React.Component {
               });
             }}
           >
-            Aumenta
+            AUMENTA
           </button>
         </div>
       </div>
